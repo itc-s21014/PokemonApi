@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
         "ルギア" to 249,
         "グラードン" to 383,
         "ディアルガ" to 483,
-        "パルキア" to 485,
+        "パルキア" to 484,
         "ギラティナ" to 487,
         "ダークライ" to 491,
         "アルセウス" to 493,
