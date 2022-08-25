@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() {
         "イベルタル" to 717,
         "ボルケニオン" to 721,
         "ソルガレオ" to 791,
-        "ルナアーラ" to 793,
+        "ルナアーラ" to 792,
     )
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
